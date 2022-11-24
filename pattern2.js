@@ -8,7 +8,7 @@ function pattern(n) {
         for(let col = 1; col <= row; col += 1) { // only change is the limit of loop
             str += "*";
         }
-        console.log(str)
+        console.log(str);
     }
 }
 
